@@ -1,0 +1,68 @@
+[CENTER]
+[IMG]https://raw.githubusercontent.com/Octavi-OS/Docs/main/About.png[/IMG]
+
+OctaviOS is an AOSP based rom focusing on Unique and Smooth UI with handy features. OctaviOS is a reborn of pie based PearlOS.
+[CODE]
+ * Your warranty is now void.
+ * We are not responsible for anything that may happen to your phone by installing any custom ROMs and/or kernels. 
+ * You do it at your own risk and take the responsibility upon yourself and you are not to blame us or XDA and its respected developers.
+ [/CODE]
+
+
+[SIZE="6"][color="#e34036"][B]CLEAN FLASH :[/B][/SIZE][/COLOR]
+[SIZE="4"]
+-Reboot to recovery 
+-Take Backup (Not Necessary)
+-Flash your firmware(If required)
+-Reboot To Recovery
+-Wipe System, Vendor, Cache, Dalvik Cache and Data
+-Flash the ROM
+-Flash Gapps
+-Flash magisk (optional)
+-Reboot
+[/SIZE]
+
+[SIZE="3"][B]:[URL="https://sourceforge.net/projects/octavi-os/files/"]DOWNLOAD[/URL][/SIZE][/B]
+
+[IMG]https://raw.githubusercontent.com/Octavi-OS/Docs/main/credits.png[/IMG]
+[SIZE="4"]
+[FONT="Verdana"]-Lineage OS[/FONT]
+[FONT="Verdana"]-AOSP[/FONT]
+[FONT="Verdana"]-Superior OS[/FONT]
+[FONT="Verdana"]-Pixel Experience[/FONT]
+[FONT="Verdana"]-Extended UI[/FONT]
+[FONT="Verdana"]-Havoc OS[/FONT]
+[FONT="Verdana"]-CrDroid ROM[/FONT]
+[FONT="Verdana"]-Fluid OS[/FONT]
+[FONT="Verdana"]-Others, I forgot to mention[/FONT]
+[/SIZE]
+
+
+[IMG]https://raw.githubusercontent.com/Octavi-OS/Docs/main/Source.png[/IMG]
+[URL="https://github.com/Octavi-OS"]
+
+[SIZE="5"][B]OctaviOS Source[/URL][/B][/SIZE]
+
+[SIZE="5"][B][URL="https://t.me/OctaviOS_Chat"]Telegram Group[/URL][/B][/SIZE="5"]
+
+[U][B][SIZE="4"][FONT="Verdana"][COLOR="#e34036"]REPORTING BUGS[/COLOR][/FONT]![/SIZE][/B][/U]
+As soon as the problem occurs, take a logcat! 
+[URL="http://telegra.ph/Logcats-are-important-03-01"]for more READ THIS[/URL][/CENTER]
+
+[SIZE="3"][B]OctaviOS for Device_Name[/B][/SIZE]
+[B]Device:[/B] Codename of your device
+[B]Maintainer:[/B] Your-Name
+[B]Build Type:[/B] Unofficial/Official
+
+[B]Kernel Source:[/B]  
+
+[B]ROM OS Version:[/B] 11.0
+[B]ROM Kernel:[/B] Linux X.X
+[B]ROM Firmware Required:[/B] Must be on Latest Firmware
+[B]Based On:[/B] AOSP
+
+[B][U]Version Information[/U][/B]
+[B]Status:[/B] Stable/Testing
+[B]Current Stable Version:[/B] 1.0
+[B]SELinux Status:[/B] Enforced/Permissive
+[B]Release Date:[/B] 202X-Month-Day
