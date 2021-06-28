@@ -1,5 +1,5 @@
 [CENTER]
-[IMG]https://raw.githubusercontent.com/Octavi-OS/Docs/main/About.png[/IMG]
+[IMG]https://raw.githubusercontent.com/Octavi-OS/XDA/11/assets/About.png[/IMG]
 
 OctaviOS is an AOSP based rom focusing on Unique and Smooth UI with handy features. OctaviOS is a reborn of pie based PearlOS.
 [CODE]
@@ -24,7 +24,7 @@ OctaviOS is an AOSP based rom focusing on Unique and Smooth UI with handy featur
 
 [SIZE="3"][B]:[URL="https://sourceforge.net/projects/octavi-os/files/"]DOWNLOAD[/URL][/SIZE][/B]
 
-[IMG]https://raw.githubusercontent.com/Octavi-OS/Docs/main/credits.png[/IMG]
+[IMG]https://raw.githubusercontent.com/Octavi-OS/XDA/11/assets/credits.png[/IMG]
 [SIZE="4"]
 [FONT="Verdana"]-Lineage OS[/FONT]
 [FONT="Verdana"]-AOSP[/FONT]
@@ -38,7 +38,7 @@ OctaviOS is an AOSP based rom focusing on Unique and Smooth UI with handy featur
 [/SIZE]
 
 
-[IMG]https://raw.githubusercontent.com/Octavi-OS/Docs/main/Source.png[/IMG]
+[IMG]https://raw.githubusercontent.com/Octavi-OS/XDA/11/assets/Source.png[/IMG]
 [URL="https://github.com/Octavi-OS"]
 
 [SIZE="5"][B]OctaviOS Source[/URL][/B][/SIZE]
